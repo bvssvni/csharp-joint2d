@@ -1,7 +1,7 @@
 using System;
 using Matrix2d;
 
-namespace Servo2d
+namespace Joint2d
 {
     /// <summary>
     /// A joint has a position and a rotation.
