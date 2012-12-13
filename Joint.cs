@@ -10,8 +10,8 @@ namespace Joint2d
     /// </summary>
     public class Joint
     {
-        Point Pos;
-        double Angle;
+        public Point Pos;
+        public double Angle;
 
         public Joint(Point pos, double angle)
         {
